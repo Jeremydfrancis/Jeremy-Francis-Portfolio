@@ -6,3 +6,5 @@ Technical Skills Used
 - tailwind CSS
 - JavaScript
 - JSX
+- React Router
+- Framer-Motion
